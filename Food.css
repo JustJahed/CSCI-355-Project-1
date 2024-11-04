@@ -1,3 +1,6 @@
+<!-- Jahed Ullah-->
+
+
 /* Import Muli font */
 @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 
@@ -342,4 +345,11 @@ height: 50px;
   display: flex;
   gap: 20px;
   margin-left: 10px;
+}
+/*Button for each subcontainer
+margin-left to push button to the left*/
+.subcontainer button {
+  font-family: 'Muli', sans-serif;
+  background-color: white;
+  margin-left: 209px;
 }
